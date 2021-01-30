@@ -1,14 +1,13 @@
 Template
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+$project A transparent, fast and scalable protocol for Consent and Privacy management built on top of blockchain.
 
 Look how easy it is to use:
 
-    import project
+    import oconsent
     # Get your stuff done
-    project.do_stuff()
+    oconsent.do_stuff()
 
 Features
 --------
@@ -21,7 +20,7 @@ Installation
 
 Install $project by running:
 
-    install project
+    install oconsent-cli
 
 Contribute
 ----------
@@ -33,9 +32,9 @@ Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+We have a mailing list located at: oc-dev@oconsent.io
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under CC BY-SA 4.0.
